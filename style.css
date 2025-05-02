@@ -21,7 +21,7 @@ body {
 header {
   grid-area: header;
   background-color: #4CAF50;
-  padding: 20px;
+  padding: 998px;
   color: white;
   text-align: center;
 }
@@ -38,13 +38,14 @@ main {
   background-color: #ADD8E6;
   color: black;
   gap: 10px;
-  padding: 45px;
+  padding: 772px;
 }
 
 aside {
   grid-area: aside;
   background-color: #ccc;
-  padding: 15px;
+  padding: 30px;
+ max height: 30vh
 }
 
 footer {
